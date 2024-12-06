@@ -17,7 +17,7 @@ class Person {
   }
 }
 
-public class Practical {
+public class Practical1 {
   public static void main(String[] args) {
       Person person1 = new Person("John", "Doe", 30);
       Person person2 = new Person("Alice", "Smith", 25);
